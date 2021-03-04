@@ -97,7 +97,7 @@ p {
 
 
 .links {
-    float: left;
+    float: ;
     color: fuchsia;
     padding-top: 5px;
     padding-left: 9px;
@@ -110,6 +110,7 @@ p {
 .links:hover {
     background-color: aqua;
 }
+
 
 html {
     scroll-behavior: smooth;
@@ -132,5 +133,7 @@ img{
 img:hover{
 transform: scale(0.9);
 }
-
+iframe{
+    text-align: center;
+}
 
